@@ -1,0 +1,9 @@
+
+{
+  "name": "Talent Speaks HR Solutions",
+  "description": "Premium staffing solutions connecting the best employees with top-tier clients. We simplify your recruitment process and reduce your workload.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
